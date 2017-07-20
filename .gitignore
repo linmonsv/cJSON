@@ -13,3 +13,5 @@ cJSON_test_utils
 libcjson.so.*
 libcjson_utils.so.*
 *.orig
+/.vs
+*.obj
